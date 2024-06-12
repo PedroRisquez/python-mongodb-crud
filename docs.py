@@ -1,1 +1,1 @@
-tags_metadata = [{"name": "users","description":"user routes"}]
+tags_metadata = [{"name": "users","description":"user routes"},{"name": "utils","description":"util routes"}]
